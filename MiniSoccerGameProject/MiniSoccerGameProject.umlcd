@@ -1,0 +1,1976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_TLf8gD6YEeyGmpYCjinHcw">
+  <modelElement href="MiniSoccerGameProject.uml#_TKMU8D6YEeyGmpYCjinHcw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tx2K0D6YEeyGmpYCjinHcw" sourceAnchor="222.0,0.0" targetAnchor="0.0,238.0" target="_T0cL0D6YEeyGmpYCjinHcw" source="_Tx2x4D6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThCusD6YEeyGmpYCjinHcw"/>
+    <bendpoints xmi:id="_UAC-4D6YEeyGmpYCjinHcw" sourceY="-233" targetX="-298"/>
+    <stereotypes xmi:id="_Tx2K0T6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThDVwD6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Tx2K0j6YEeyGmpYCjinHcw" text="">
+      <visualProperties xmi:id="_UANW8D6YEeyGmpYCjinHcw" position="-13.653958171820705,105.83865431842749"/>
+    </nameVisual>
+    <sourceRole xmi:id="_Tx2K0z6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThCusT6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UALhwT6YEeyGmpYCjinHcw" position="2.5306731921928076,-81.55939511375001"/>
+      <visibility xmi:id="_Tx2K1D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tx2K1T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Tx2K1j6YEeyGmpYCjinHcw" aggregationKind="NONE" name="gamePanel" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TghxUD6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAN-AD6YEeyGmpYCjinHcw" position="-338.7916041122271,13.535216531265633"/>
+      <visibility xmi:id="_Tx2K1z6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tx2K2D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_TybZoD6YEeyGmpYCjinHcw" sourceAnchor="247.0,0.0" targetAnchor="167.0,416.0" target="_T0cL0D6YEeyGmpYCjinHcw" source="_TydO0D6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThDVwT6YEeyGmpYCjinHcw"/>
+    <stereotypes xmi:id="_TycnwT6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThD80D6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_TycAsD6YEeyGmpYCjinHcw" text="">
+      <visualProperties xmi:id="_UAPMID6YEeyGmpYCjinHcw" position="-14.159175536644057,20.39504338404305"/>
+    </nameVisual>
+    <sourceRole xmi:id="_TycAsT6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThDVwj6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAOlED6YEeyGmpYCjinHcw" position="2.4782684990551616,-82.61963308687177"/>
+      <visibility xmi:id="_Tycnwz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tycnwj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_TycnwD6YEeyGmpYCjinHcw" aggregationKind="NONE" name="gamePanel" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgiYYT6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAPzMD6YEeyGmpYCjinHcw" position="-40.12130833380604,74.3128074545283"/>
+      <visibility xmi:id="_TycnxT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_TycnxD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TysfYT6YEeyGmpYCjinHcw" targetItem="_Tyu7xD6YEeyGmpYCjinHcw" sourceItem="_TysfYD6YEeyGmpYCjinHcw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tyu7oD6YEeyGmpYCjinHcw" sourceAnchor="347.0,0.0" targetAnchor="271.0,612.0" target="_Ty56wD6YEeyGmpYCjinHcw" source="_Tyu7qT6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThFyBD6YEeyGmpYCjinHcw"/>
+    <stereotypes xmi:id="_Tyu7oT6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThGZED6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Tyu7oj6YEeyGmpYCjinHcw" text="">
+      <visualProperties xmi:id="_UARoYD6YEeyGmpYCjinHcw" position="-14.355851229435075,128.27936375138097"/>
+    </nameVisual>
+    <sourceRole xmi:id="_Tyu7oz6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThFyBT6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAQaQD6YEeyGmpYCjinHcw" position="1.8253598186595354,-79.41121150328445"/>
+      <visibility xmi:id="_Tyu7pD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tyu7pT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Tyu7pj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="playerList" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_Tglbsz6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UARoYT6YEeyGmpYCjinHcw" position="-34.41538357897525,307.2979486922486"/>
+      <visibility xmi:id="_Tyu7pz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tyu7qD6YEeyGmpYCjinHcw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Ty4FkD6YEeyGmpYCjinHcw" source="_Ty56wD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThD80T6YEeyGmpYCjinHcw"/>
+    <stereotypes xmi:id="_Ty4FkT6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThEj4D6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Ty4Fkj6YEeyGmpYCjinHcw" text=""/>
+    <sourceRole xmi:id="_Ty4Fkz6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThD80j6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty4FlD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty4FlT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Ty4Flj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="playerColor" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgi_cj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty4Flz6YEeyGmpYCjinHcw" label="#"/>
+      <cardinality xmi:id="_Ty4FmD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Ty4soD6YEeyGmpYCjinHcw" source="_Ty56wD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThEj4T6YEeyGmpYCjinHcw"/>
+    <stereotypes xmi:id="_Ty4soT6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThFK8D6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Ty4soj6YEeyGmpYCjinHcw" text=""/>
+    <sourceRole xmi:id="_Ty4soz6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThEj4j6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty4spD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty4spT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Ty4spj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="playerPosition" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgjmgD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty4spz6YEeyGmpYCjinHcw" label="#"/>
+      <cardinality xmi:id="_Ty4sqD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Ty5TsD6YEeyGmpYCjinHcw" sourceAnchor="241.0,0.0" targetAnchor="335.0,82.0" target="_Tz0gwD6YEeyGmpYCjinHcw" source="_Ty56wD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThFK8T6YEeyGmpYCjinHcw"/>
+    <bendpoints xmi:id="_UAGpQD6YEeyGmpYCjinHcw" sourceY="-137" targetX="308"/>
+    <stereotypes xmi:id="_Ty5TsT6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThFyAD6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Ty5Tsj6YEeyGmpYCjinHcw" text="">
+      <visualProperties xmi:id="_UAS2gT6YEeyGmpYCjinHcw" position="-32.18799747508501,-27.335546875182445"/>
+    </nameVisual>
+    <sourceRole xmi:id="_Ty5Tsz6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThFK8j6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAS2gD6YEeyGmpYCjinHcw" position="-19.63201997236672,-82.91906029787765"/>
+      <visibility xmi:id="_Ty5TtD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty5TtT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Ty5Ttj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="playerStatistics" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgjmgj6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UATdkD6YEeyGmpYCjinHcw" position="230.20061385237068,-155.89280148606395"/>
+      <visibility xmi:id="_Ty5Ttz6YEeyGmpYCjinHcw" label="#"/>
+      <cardinality xmi:id="_Ty5TuD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_TzOD0D6YEeyGmpYCjinHcw" sourceAnchor="0.0,135.0" targetAnchor="241.0,612.0" superClass="_Ty56wD6YEeyGmpYCjinHcw" subClass="_TzQgED6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TgBbAD6YEeyGmpYCjinHcw"/>
+    <bendpoints xmi:id="_UAHQUD6YEeyGmpYCjinHcw" sourceX="-350" targetX="-332" targetY="807"/>
+    <bendpoints xmi:id="_UAHQUT6YEeyGmpYCjinHcw" sourceX="-350" sourceY="-779" targetX="-332" targetY="28"/>
+    <bendpoints xmi:id="_UAH3YD6YEeyGmpYCjinHcw" sourceX="-18" sourceY="-779" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_TzWmsD6YEeyGmpYCjinHcw" sourceAnchor="237.0,0.0" targetAnchor="241.0,612.0" superClass="_Ty56wD6YEeyGmpYCjinHcw" subClass="_TzZqAD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tfz_oT6YEeyGmpYCjinHcw"/>
+    <bendpoints xmi:id="_UAH3YT6YEeyGmpYCjinHcw" sourceY="-27" targetX="-646" targetY="28"/>
+    <bendpoints xmi:id="_UAIecD6YEeyGmpYCjinHcw" sourceX="646" sourceY="-27" targetY="28"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tzo6kD6YEeyGmpYCjinHcw" sourceAnchor="178.0,0.0" targetAnchor="483.0,306.0" target="_Ty56wD6YEeyGmpYCjinHcw" source="_TztzED6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThFyAT6YEeyGmpYCjinHcw"/>
+    <bendpoints xmi:id="_UAJFgD6YEeyGmpYCjinHcw" sourceY="-404" targetX="189"/>
+    <stereotypes xmi:id="_TzqIsz6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThFyAz6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_TzqIsD6YEeyGmpYCjinHcw" text="">
+      <visualProperties xmi:id="_UAUrsD6YEeyGmpYCjinHcw" position="-14.134856555809563,196.1609683267052"/>
+    </nameVisual>
+    <sourceRole xmi:id="_TzqIsT6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThFyAj6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAUEoD6YEeyGmpYCjinHcw" position="2.646585293766435,-81.95961621655374"/>
+      <visibility xmi:id="_Tzsk8T6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tzsk8D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_TzqIsj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="collection" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgk0pD6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAUrsT6YEeyGmpYCjinHcw" position="154.1518239662109,41.19122502993264"/>
+      <visibility xmi:id="_Tzsk8z6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tzsk8j6YEeyGmpYCjinHcw" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzqvwT6YEeyGmpYCjinHcw" targetItem="_TztzHT6YEeyGmpYCjinHcw" sourceItem="_TzqvwD6YEeyGmpYCjinHcw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tzqvwz6YEeyGmpYCjinHcw" targetItem="_TztzIz6YEeyGmpYCjinHcw" sourceItem="_Tzqvwj6YEeyGmpYCjinHcw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzrW0T6YEeyGmpYCjinHcw" targetItem="_TztzKT6YEeyGmpYCjinHcw" sourceItem="_TzrW0D6YEeyGmpYCjinHcw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_TzrW0z6YEeyGmpYCjinHcw" targetItem="_TztzLz6YEeyGmpYCjinHcw" sourceItem="_TzrW0j6YEeyGmpYCjinHcw"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_Tzr94T6YEeyGmpYCjinHcw" targetItem="_TztzOj6YEeyGmpYCjinHcw" sourceItem="_Tzr94D6YEeyGmpYCjinHcw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tz4yMD6YEeyGmpYCjinHcw" source="_Tz7OcD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThGZET6YEeyGmpYCjinHcw"/>
+    <stereotypes xmi:id="_Tz5ZQz6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThGZEz6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Tz5ZQD6YEeyGmpYCjinHcw" text=""/>
+    <sourceRole xmi:id="_Tz5ZQT6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThGZEj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Tz6AVT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tz6AVD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Tz5ZQj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="strikerRed" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgmCxD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Tz6nYT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tz6nYD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tz4yMT6YEeyGmpYCjinHcw" source="_Tz7OcD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThGZFD6YEeyGmpYCjinHcw"/>
+    <stereotypes xmi:id="_Tz6AUz6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThHAID6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_Tz6AUD6YEeyGmpYCjinHcw" text=""/>
+    <sourceRole xmi:id="_Tz6AUT6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThGZFT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Tz6nZD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tz6nYz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_Tz6AUj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="goalKeeperBlack" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgnQ4D6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Tz6nZj6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tz6nZT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tz-RwD6YEeyGmpYCjinHcw" sourceAnchor="320.0,0.0" targetAnchor="0.0,194.0" target="_T0B8ID6YEeyGmpYCjinHcw" source="_T0B8ID6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThHAIT6YEeyGmpYCjinHcw"/>
+    <bendpoints xmi:id="_UAJskD6YEeyGmpYCjinHcw" sourceY="-131" targetX="320" targetY="-325"/>
+    <bendpoints xmi:id="_UAJskT6YEeyGmpYCjinHcw" sourceX="-455" sourceY="-131" targetX="-135" targetY="-325"/>
+    <bendpoints xmi:id="_UAKToD6YEeyGmpYCjinHcw" sourceX="-455" sourceY="194" targetX="-135"/>
+    <stereotypes xmi:id="_T0AG8z6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThHnMD6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_T0AG8D6YEeyGmpYCjinHcw" text="">
+      <visualProperties xmi:id="_UAV50D6YEeyGmpYCjinHcw" position="390.5,-14.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_T0AG8T6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThHAIj6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAVSwD6YEeyGmpYCjinHcw" position="-21.5,-70.5"/>
+      <visibility xmi:id="_T0BVED6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0AuBj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_T0AG8j6YEeyGmpYCjinHcw" aggregationKind="NONE" name="soccerBall" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgnQ5j6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAV50T6YEeyGmpYCjinHcw" position="-98.5,5.999999999999972"/>
+      <visibility xmi:id="_T0BVEj6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0BVET6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tz-40D6YEeyGmpYCjinHcw" target="_T0B8ID6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tg8oED6YEeyGmpYCjinHcw"/>
+    <nameVisual xmi:id="_T0AG9D6YEeyGmpYCjinHcw" text=""/>
+    <sourceRole xmi:id="_T0AuAD6YEeyGmpYCjinHcw" aggregationKind="NONE" name="position" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgnQ6D6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0BVFD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0BVEz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_T0AuAT6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_Tg9PID6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0BVFj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0BVFT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_Tz-40T6YEeyGmpYCjinHcw" source="_T0B8ID6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThHnMT6YEeyGmpYCjinHcw"/>
+    <stereotypes xmi:id="_T0AuBT6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThHnMz6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_T0AuAj6YEeyGmpYCjinHcw" text=""/>
+    <sourceRole xmi:id="_T0AuAz6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThHnMj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0BVGD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0BVFz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_T0AuBD6YEeyGmpYCjinHcw" aggregationKind="NONE" name="color" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgn38j6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0BVGj6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0BVGT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_T0KfAD6YEeyGmpYCjinHcw" sourceAnchor="0.0,222.0" targetAnchor="178.0,248.0" target="_TztzED6YEeyGmpYCjinHcw" source="_T0OJYj6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThHnND6YEeyGmpYCjinHcw"/>
+    <bendpoints xmi:id="_UAK6sD6YEeyGmpYCjinHcw" sourceX="-291" targetY="222"/>
+    <stereotypes xmi:id="_T0LtID6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThIOQD6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_T0LGET6YEeyGmpYCjinHcw" text="">
+      <visualProperties xmi:id="_UAXH8D6YEeyGmpYCjinHcw" position="182.47050766800305,-23.50881856658816"/>
+    </nameVisual>
+    <sourceRole xmi:id="_T0LGEj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThHnNT6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAWg4D6YEeyGmpYCjinHcw" position="-58.92689932172472,-43.94337911086211"/>
+      <visibility xmi:id="_T0M7RT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0M7RD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_T0LGEz6YEeyGmpYCjinHcw" aggregationKind="NONE" name="gamePlayers" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgpGEz6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAXH8T6YEeyGmpYCjinHcw" position="100.92111419680973,178.65251526906707"/>
+      <visibility xmi:id="_T0NiUT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0NiUD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_T0LGED6YEeyGmpYCjinHcw" sourceAnchor="0.0,208.0" targetAnchor="171.0,444.0" target="_T0OJYj6YEeyGmpYCjinHcw" source="_T0cL0D6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThI1UD6YEeyGmpYCjinHcw"/>
+    <bendpoints xmi:id="_UALhwD6YEeyGmpYCjinHcw" sourceX="-233" targetY="263"/>
+    <stereotypes xmi:id="_T0M7Qz6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThI1Uj6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_T0M7QD6YEeyGmpYCjinHcw" text="">
+      <visualProperties xmi:id="_UAXvAT6YEeyGmpYCjinHcw" position="34.790213148113594,-19.137427721624192"/>
+    </nameVisual>
+    <sourceRole xmi:id="_T0M7QT6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThI1UT6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAXvAD6YEeyGmpYCjinHcw" position="-52.72617050221436,-42.32577440760082"/>
+      <visibility xmi:id="_T0NiVD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0NiUz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_T0M7Qj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="game" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgptIj6YEeyGmpYCjinHcw"/>
+      <visualProperties xmi:id="_UAYWED6YEeyGmpYCjinHcw" position="-110.11874580561681,219.76973827305414"/>
+      <visibility xmi:id="_T0OJYT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0OJYD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_T0bkwD6YEeyGmpYCjinHcw" source="_T0cL0D6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_ThIOQT6YEeyGmpYCjinHcw"/>
+    <stereotypes xmi:id="_T0bkwT6YEeyGmpYCjinHcw" name="Reference">
+      <modelElement href="MiniSoccerGameProject.uml#_ThIOQz6YEeyGmpYCjinHcw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_T0bkwj6YEeyGmpYCjinHcw" text=""/>
+    <sourceRole xmi:id="_T0bkwz6YEeyGmpYCjinHcw" aggregationKind="NONE" name="">
+      <modelElement href="MiniSoccerGameProject.uml#_ThIOQj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0bkxD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0bkxT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_T0bkxj6YEeyGmpYCjinHcw" aggregationKind="NONE" name="uiFont" navigable="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgptID6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0bkxz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0bkyD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TysfYD6YEeyGmpYCjinHcw" sourceConnectionVisual="_TysfYT6YEeyGmpYCjinHcw" text="This is a constructor to initialize a list&#xD;&#xA;&#x9; * &#xD;&#xA;&#x9; * @param collection a colection of game players" item="_Tyu7xD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tg8BBT6YEeyGmpYCjinHcw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzqvwD6YEeyGmpYCjinHcw" sourceConnectionVisual="_TzqvwT6YEeyGmpYCjinHcw" text="This is a default constructor" item="_TztzHT6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tg8BAD6YEeyGmpYCjinHcw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tzqvwj6YEeyGmpYCjinHcw" sourceConnectionVisual="_Tzqvwz6YEeyGmpYCjinHcw" text="This returns a collection of game players&#xD;&#xA;&#x9; * &#xD;&#xA;&#x9; * @return the collection of GamePlayers" item="_TztzIz6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tg8BAT6YEeyGmpYCjinHcw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzrW0D6YEeyGmpYCjinHcw" sourceConnectionVisual="_TzrW0T6YEeyGmpYCjinHcw" text="This is an iterator for a collection with game players&#xD;&#xA;&#x9; * &#xD;&#xA;&#x9; * @return null if there is no element in the collection,&#xD;&#xA;&#x9; * otherwise, return the instantiation of PlayerCollectionIterator" item="_TztzKT6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tg8BAz6YEeyGmpYCjinHcw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_TzrW0j6YEeyGmpYCjinHcw" sourceConnectionVisual="_TzrW0z6YEeyGmpYCjinHcw" text="This iterates through list and returns player with matching name&#xD;&#xA;&#x9; * &#xD;&#xA;&#x9; * @param name a String describing the type of game player&#xD;&#xA;&#x9; * @return a game player if exists, otherwise, return null" item="_TztzLz6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tg8BBD6YEeyGmpYCjinHcw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_Tzr94D6YEeyGmpYCjinHcw" sourceConnectionVisual="_Tzr94T6YEeyGmpYCjinHcw" text="This adds a player to a collection and increment its size by one&#xD;&#xA;&#x9; * &#xD;&#xA;&#x9; * @param player a GamePlayer to add" item="_TztzOj6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tg8BAj6YEeyGmpYCjinHcw"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tx2x4D6YEeyGmpYCjinHcw" name="GameListener" associationsOut="_Tx2K0D6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tb5wAD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_Tx2x4T6YEeyGmpYCjinHcw" position="30.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tx2x4j6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_Tx2x4z6YEeyGmpYCjinHcw" name="gamePanel">
+      <modelElement href="MiniSoccerGameProject.uml#_TghxUD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tx2x5D6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgiYYD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tx2x5T6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tx2x5j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Tx2x5z6YEeyGmpYCjinHcw" name="GamePanel">
+        <modelElement href="MiniSoccerGameProject.uml#_TdQa4D6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Tx2x6D6YEeyGmpYCjinHcw" name="GameListener">
+      <modelElement href="MiniSoccerGameProject.uml#_TfnyYT6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_Tx2x6T6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_Tx2x6j6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tx2x6z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Tx2x7D6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TfoZcj6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Tx2x7T6YEeyGmpYCjinHcw" name="GameListener">
+          <modelElement href="MiniSoccerGameProject.uml#_Tb5wAD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Tx2x7j6YEeyGmpYCjinHcw" name="panel">
+        <modelElement href="MiniSoccerGameProject.uml#_TfnyYj6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Tx2x7z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Tx2x8D6YEeyGmpYCjinHcw" name="GamePanel">
+          <modelElement href="MiniSoccerGameProject.uml#_TdQa4D6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Tx2x8T6YEeyGmpYCjinHcw" name="keyTyped">
+      <modelElement href="MiniSoccerGameProject.uml#_TgKk8D6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tx2x8j6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgLMAD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tx2x8z6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TgLMAT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tx2x9D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tx2x9T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_Tx2x9j6YEeyGmpYCjinHcw" name="e">
+        <modelElement href="MiniSoccerGameProject.uml#_TgKk8T6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Tx2x9z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Tx2x-D6YEeyGmpYCjinHcw" name="KeyEvent">
+          <modelElement href="MiniSoccerGameProject.uml#_Tfl9MD6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Tx2x-T6YEeyGmpYCjinHcw" name="keyPressed">
+      <modelElement href="MiniSoccerGameProject.uml#_TgLMAz6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tx2x-j6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgLzED6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tx2x-z6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TgLzET6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tx2x_D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tx2x_T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_Tx2x_j6YEeyGmpYCjinHcw" name="e">
+        <modelElement href="MiniSoccerGameProject.uml#_TgLMBD6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Tx2x_z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Tx2yAD6YEeyGmpYCjinHcw" name="KeyEvent">
+          <modelElement href="MiniSoccerGameProject.uml#_Tfl9MD6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Tx2yAT6YEeyGmpYCjinHcw" name="keyReleased">
+      <modelElement href="MiniSoccerGameProject.uml#_TgMaID6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tx2yAj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgNBMT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tx2yAz6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TgNoQD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tx2yBD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tx2yBT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_Tx2yBj6YEeyGmpYCjinHcw" name="e">
+        <modelElement href="MiniSoccerGameProject.uml#_TgNBMD6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Tx2yBz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Tx2yCD6YEeyGmpYCjinHcw" name="KeyEvent">
+          <modelElement href="MiniSoccerGameProject.uml#_Tfl9MD6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TydO0D6YEeyGmpYCjinHcw" name="MenubarListener" associationsOut="_TybZoD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TcBEwD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_TydO0T6YEeyGmpYCjinHcw" position="470.0,301.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TydO0j6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_TydO0z6YEeyGmpYCjinHcw" name="gamePanel">
+      <modelElement href="MiniSoccerGameProject.uml#_TgiYYT6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TydO1D6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgiYYj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TydO1T6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_TydO1j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_TydO1z6YEeyGmpYCjinHcw" name="GamePanel">
+        <modelElement href="MiniSoccerGameProject.uml#_TdQa4D6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_TydO2D6YEeyGmpYCjinHcw" name="MenubarListener">
+      <modelElement href="MiniSoccerGameProject.uml#_Tfq1sT6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_TydO2T6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_TydO2j6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TydO2z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_TydO3D6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tfrcwz6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TydO3T6YEeyGmpYCjinHcw" name="MenubarListener">
+          <modelElement href="MiniSoccerGameProject.uml#_TcBEwD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_TydO3j6YEeyGmpYCjinHcw" name="panel">
+        <modelElement href="MiniSoccerGameProject.uml#_TfrcwD6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TydO3z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_TydO4D6YEeyGmpYCjinHcw" name="GamePanel">
+          <modelElement href="MiniSoccerGameProject.uml#_TdQa4D6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_TydO4T6YEeyGmpYCjinHcw" name="actionPerformed">
+      <modelElement href="MiniSoccerGameProject.uml#_TgOPUD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TydO4j6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgOPUj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TydO4z6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TgOPUz6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TydO5D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TydO5T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_TydO5j6YEeyGmpYCjinHcw" name="e">
+        <modelElement href="MiniSoccerGameProject.uml#_TgOPUT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TydO5z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_TydO6D6YEeyGmpYCjinHcw" name="ActionEvent">
+          <modelElement href="MiniSoccerGameProject.uml#_TfpnkD6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TyhgQD6YEeyGmpYCjinHcw" name="MiniSoccerApp">
+    <modelElement href="MiniSoccerGameProject.uml#_TcEvID6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_TyhgQT6YEeyGmpYCjinHcw" position="575.0,469.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TyhgQj6YEeyGmpYCjinHcw" label="+"/>
+    <operations xmi:id="_TyhgQz6YEeyGmpYCjinHcw" name="main" staticOperation="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TcFWMD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_TyhgRD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TyhgRT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_TyhgRj6YEeyGmpYCjinHcw" name="args">
+        <modelElement href="MiniSoccerGameProject.uml#_TcFWMT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TyhgRz6YEeyGmpYCjinHcw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_TyhgSD6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TyjVcD6YEeyGmpYCjinHcw" name="PlayerCollectionIteratorTest">
+    <modelElement href="MiniSoccerGameProject.uml#_TcpW4D6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_Tyj8gD6YEeyGmpYCjinHcw" position="592.0,623.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tyj8gT6YEeyGmpYCjinHcw" label="+"/>
+    <operations xmi:id="_Tyj8gj6YEeyGmpYCjinHcw" name="constructorTest">
+      <modelElement href="MiniSoccerGameProject.uml#_Tcp98D6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tyj8gz6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcqlAD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tyj8hD6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcqlAT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tyj8hT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tyj8hj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TylxsD6YEeyGmpYCjinHcw" name="SoccerBallTest">
+    <modelElement href="MiniSoccerGameProject.uml#_Tc6coD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_TylxsT6YEeyGmpYCjinHcw" position="887.0,465.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tylxsj6YEeyGmpYCjinHcw" label="~"/>
+    <operations xmi:id="_Tylxsz6YEeyGmpYCjinHcw" name="test">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc7DsD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TylxtD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc7qwD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TylxtT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc7qwT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tylxtj6YEeyGmpYCjinHcw" label="~"/>
+      <cardinality xmi:id="_Tylxtz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TypcED6YEeyGmpYCjinHcw" name="PlayerFactoryTest">
+    <modelElement href="MiniSoccerGameProject.uml#_TcuPYD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_TypcET6YEeyGmpYCjinHcw" position="205.0,476.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TypcEj6YEeyGmpYCjinHcw" label="~"/>
+    <operations xmi:id="_TypcEz6YEeyGmpYCjinHcw" name="getPlayerFactoryTest">
+      <modelElement href="MiniSoccerGameProject.uml#_Tcu2cD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TypcFD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcvdgD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TypcFT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcvdgT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TypcFj6YEeyGmpYCjinHcw" label="~"/>
+      <cardinality xmi:id="_TypcFz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tyu7qT6YEeyGmpYCjinHcw" name="PlayerCollectionIterator" associationsOut="_Tyu7oD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tcj3UD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_Tyu7qj6YEeyGmpYCjinHcw" position="-893.0,-852.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tyu7qz6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_Tyu7rD6YEeyGmpYCjinHcw" name="playerList">
+      <modelElement href="MiniSoccerGameProject.uml#_Tglbsz6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tyu7rT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgmCwD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tyu7rj6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tyu7rz6YEeyGmpYCjinHcw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_Tyu7sD6YEeyGmpYCjinHcw" name="GamePlayer">
+        <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Tyu7sT6YEeyGmpYCjinHcw" defaultValue="0" name="index">
+      <modelElement href="MiniSoccerGameProject.uml#_TgmCwT6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tyu7sj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgmCwz6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tyu7sz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tyu7tD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Tyu7tT6YEeyGmpYCjinHcw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Tyu7tj6YEeyGmpYCjinHcw" name="hasNext">
+      <modelElement href="MiniSoccerGameProject.uml#_TclFcD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tyu7tz6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TclsgT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tyu7uD6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcmTkD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tyu7uT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tyu7uj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Tyu7uz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TclsgD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Tyu7vD6YEeyGmpYCjinHcw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tyu7vT6YEeyGmpYCjinHcw" name="next">
+      <modelElement href="MiniSoccerGameProject.uml#_TcmTkj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tyu7vj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tcm6oD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tyu7vz6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcnhsD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tyu7wD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tyu7wT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Tyu7wj6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tf5fMD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Tyu7wz6YEeyGmpYCjinHcw" name="GamePlayer">
+          <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tyu7xD6YEeyGmpYCjinHcw" comments="_TysfYD6YEeyGmpYCjinHcw" targetConnectionVisual="_TysfYT6YEeyGmpYCjinHcw" name="PlayerCollectionIterator">
+      <modelElement href="MiniSoccerGameProject.uml#_TgVkET6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_Tyu7xT6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_Tyu7xj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tyu7xz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Tyu7yD6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgWLIj6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Tyu7yT6YEeyGmpYCjinHcw" name="PlayerCollectionIterator">
+          <modelElement href="MiniSoccerGameProject.uml#_Tcj3UD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Tyu7yj6YEeyGmpYCjinHcw" name="collection">
+        <modelElement href="MiniSoccerGameProject.uml#_TgVkEj6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Tyu7yz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Tyu7zD6YEeyGmpYCjinHcw" name="Collection">
+          <modelElement href="MiniSoccerGameProject.uml#_Tf1NwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Ty56wD6YEeyGmpYCjinHcw" name="GamePlayer" abstractClass="true" associationsIn="_Tyu7oD6YEeyGmpYCjinHcw _Tzo6kD6YEeyGmpYCjinHcw" associationsOut="_Ty4FkD6YEeyGmpYCjinHcw _Ty4soD6YEeyGmpYCjinHcw _Ty5TsD6YEeyGmpYCjinHcw" subclassedBy="_TzOD0D6YEeyGmpYCjinHcw _TzWmsD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_Ty56wT6YEeyGmpYCjinHcw" position="-817.0,-1898.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Ty56wj6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_Ty56wz6YEeyGmpYCjinHcw" name="playerName">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgi_cD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Ty56xD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgi_cT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ty56xT6YEeyGmpYCjinHcw" label="#"/>
+      <cardinality xmi:id="_Ty56xj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Ty56xz6YEeyGmpYCjinHcw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Ty56yD6YEeyGmpYCjinHcw" name="playerColor">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgi_cj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Ty56yT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgi_cz6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ty56yj6YEeyGmpYCjinHcw" label="#"/>
+      <cardinality xmi:id="_Ty56yz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Ty56zD6YEeyGmpYCjinHcw" name="Color">
+        <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Ty56zT6YEeyGmpYCjinHcw" name="playerPosition">
+      <modelElement href="MiniSoccerGameProject.uml#_TgjmgD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Ty56zj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgjmgT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ty56zz6YEeyGmpYCjinHcw" label="#"/>
+      <cardinality xmi:id="_Ty560D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Ty560T6YEeyGmpYCjinHcw" name="Point">
+        <modelElement href="MiniSoccerGameProject.uml#_TfxjYT6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Ty560j6YEeyGmpYCjinHcw" name="playerStatistics">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgjmgj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Ty560z6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgjmgz6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ty561D6YEeyGmpYCjinHcw" label="#"/>
+      <cardinality xmi:id="_Ty561T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Ty561j6YEeyGmpYCjinHcw" name="PlayerStatistics">
+        <modelElement href="MiniSoccerGameProject.uml#_TcwEkD6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Ty561z6YEeyGmpYCjinHcw" name="isPlayerHasBall">
+      <modelElement href="MiniSoccerGameProject.uml#_TcIZgD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty562D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty562T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ty562j6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TcJnoD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Ty562z6YEeyGmpYCjinHcw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Ty563D6YEeyGmpYCjinHcw" name="grabsBall">
+      <modelElement href="MiniSoccerGameProject.uml#_TcJnoT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty563T6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty563j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Ty563z6YEeyGmpYCjinHcw" abstractOperation="true" name="moveLeft">
+      <modelElement href="MiniSoccerGameProject.uml#_TcJnoj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty564D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty564T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Ty564j6YEeyGmpYCjinHcw" abstractOperation="true" name="moveRight">
+      <modelElement href="MiniSoccerGameProject.uml#_TcKOsD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty564z6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty565D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Ty565T6YEeyGmpYCjinHcw" abstractOperation="true" name="moveUp">
+      <modelElement href="MiniSoccerGameProject.uml#_TcKOsT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty565j6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty565z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Ty566D6YEeyGmpYCjinHcw" abstractOperation="true" name="moveDown">
+      <modelElement href="MiniSoccerGameProject.uml#_TcKOsj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty566T6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty566j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Ty566z6YEeyGmpYCjinHcw" abstractOperation="true" name="shootBall">
+      <modelElement href="MiniSoccerGameProject.uml#_TcKOsz6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty567D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty567T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Ty567j6YEeyGmpYCjinHcw" name="getPlayerName">
+      <modelElement href="MiniSoccerGameProject.uml#_TcK1wD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty567z6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty568D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ty568T6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TcK1wT6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Ty568j6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Ty568z6YEeyGmpYCjinHcw" name="getPlayerColor">
+      <modelElement href="MiniSoccerGameProject.uml#_TcK1wj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty569D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty569T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ty569j6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgRSpT6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Ty569z6YEeyGmpYCjinHcw" name="Color">
+          <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Ty56-D6YEeyGmpYCjinHcw" name="getPlayerPosition">
+      <modelElement href="MiniSoccerGameProject.uml#_TcLc0D6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty56-T6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty56-j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ty56-z6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgR5sD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Ty56_D6YEeyGmpYCjinHcw" name="Point">
+          <modelElement href="MiniSoccerGameProject.uml#_TfxjYT6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Ty56_T6YEeyGmpYCjinHcw" abstractOperation="true" name="setInitialPosition">
+      <modelElement href="MiniSoccerGameProject.uml#_TcMD4D6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty56_j6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty56_z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Ty57AD6YEeyGmpYCjinHcw" name="getPlayerStatistics">
+      <modelElement href="MiniSoccerGameProject.uml#_TcMq8D6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty57AT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty57Aj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ty57Az6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TcMq8T6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Ty57BD6YEeyGmpYCjinHcw" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Ty57BT6YEeyGmpYCjinHcw" name="setPlayerStatistics">
+      <modelElement href="MiniSoccerGameProject.uml#_TcMq8j6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty57Bj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty57Bz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_Ty57CD6YEeyGmpYCjinHcw" name="newStatistics">
+        <modelElement href="MiniSoccerGameProject.uml#_TcMq8z6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Ty57CT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Ty57Cj6YEeyGmpYCjinHcw" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Ty57Cz6YEeyGmpYCjinHcw" abstractOperation="true" name="toString">
+      <modelElement href="MiniSoccerGameProject.uml#_TcNSAD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Ty57DD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcN5ET6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Ty57DT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcPHMD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ty57Dj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty57Dz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ty57ED6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TcN5ED6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Ty57ET6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Ty57Ej6YEeyGmpYCjinHcw" name="compareTo">
+      <modelElement href="MiniSoccerGameProject.uml#_TftR8D6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Ty57Ez6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tft5AD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Ty57FD6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_Tft5AT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Ty57FT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty57Fj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ty57Fz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TftR8j6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Ty57GD6YEeyGmpYCjinHcw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Ty57GT6YEeyGmpYCjinHcw" name="otherPlayer">
+        <modelElement href="MiniSoccerGameProject.uml#_TftR8T6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Ty57Gj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Ty57Gz6YEeyGmpYCjinHcw" name="GamePlayer">
+          <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Ty57HD6YEeyGmpYCjinHcw" name="GamePlayer">
+      <modelElement href="MiniSoccerGameProject.uml#_TgQrkD6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_Ty57HT6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_Ty57Hj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty57Hz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Ty57ID6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgRSpD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Ty57IT6YEeyGmpYCjinHcw" name="GamePlayer">
+          <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Ty57Ij6YEeyGmpYCjinHcw" name="name">
+        <modelElement href="MiniSoccerGameProject.uml#_TgRSoD6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Ty57Iz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Ty57JD6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_Ty57JT6YEeyGmpYCjinHcw" name="color">
+        <modelElement href="MiniSoccerGameProject.uml#_TgRSoT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Ty57Jj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Ty57Jz6YEeyGmpYCjinHcw" name="Color">
+          <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Ty57KD6YEeyGmpYCjinHcw" name="setPlayerPosition">
+      <modelElement href="MiniSoccerGameProject.uml#_TgR5sT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Ty57KT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Ty57Kj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_Ty57Kz6YEeyGmpYCjinHcw" name="newPosition">
+        <modelElement href="MiniSoccerGameProject.uml#_TgR5sj6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Ty57LD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Ty57LT6YEeyGmpYCjinHcw" name="Point">
+          <modelElement href="MiniSoccerGameProject.uml#_TfxjYT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TzQgED6YEeyGmpYCjinHcw" name="Striker" generalizations="_TzOD0D6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TdH4AD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_TzQgET6YEeyGmpYCjinHcw" position="-558.0,-614.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TzQgEj6YEeyGmpYCjinHcw" label="+"/>
+    <operations xmi:id="_TzQgEz6YEeyGmpYCjinHcw" name="moveLeft">
+      <modelElement href="MiniSoccerGameProject.uml#_TdIfED6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzQgFD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdJGID6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzQgFT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdJGIT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzQgFj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzQgFz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzQgGD6YEeyGmpYCjinHcw" name="moveRight">
+      <modelElement href="MiniSoccerGameProject.uml#_TdJGIz6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzQgGT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdJtMD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzQgGj6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdJtMT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzQgGz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzQgHD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzQgHT6YEeyGmpYCjinHcw" name="moveUp">
+      <modelElement href="MiniSoccerGameProject.uml#_TdKUQD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzQgHj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdKUQT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzQgHz6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdKUQj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzQgID6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzQgIT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzQgIj6YEeyGmpYCjinHcw" name="moveDown">
+      <modelElement href="MiniSoccerGameProject.uml#_TdK7UD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzQgIz6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdK7UT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzQgJD6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdK7Uj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzQgJT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzQgJj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzQgJz6YEeyGmpYCjinHcw" name="shootBall">
+      <modelElement href="MiniSoccerGameProject.uml#_TdLiYD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzQgKD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdLiYT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzQgKT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdLiYj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzQgKj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzQgKz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzQgLD6YEeyGmpYCjinHcw" name="setInitialPosition">
+      <modelElement href="MiniSoccerGameProject.uml#_TdMJcD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzQgLT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdMJcT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzQgLj6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdMwgD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzQgLz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzQgMD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzQgMT6YEeyGmpYCjinHcw" name="toString">
+      <modelElement href="MiniSoccerGameProject.uml#_TdMwgj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzQgMj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdNXkD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzQgMz6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdNXkT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzQgND6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzQgNT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_TzQgNj6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TdMwgz6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TzQgNz6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_TzQgOD6YEeyGmpYCjinHcw" name="Striker">
+      <modelElement href="MiniSoccerGameProject.uml#_TgXZQT6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_TzQgOT6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_TzQgOj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzQgOz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_TzQgPD6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgYAVD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TzQgPT6YEeyGmpYCjinHcw" name="Striker">
+          <modelElement href="MiniSoccerGameProject.uml#_TdH4AD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_TzQgPj6YEeyGmpYCjinHcw" name="name">
+        <modelElement href="MiniSoccerGameProject.uml#_TgYAUD6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TzQgPz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_TzQgQD6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_TzQgQT6YEeyGmpYCjinHcw" name="color">
+        <modelElement href="MiniSoccerGameProject.uml#_TgYAUT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TzQgQj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_TzQgQz6YEeyGmpYCjinHcw" name="Color">
+          <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TzZqAD6YEeyGmpYCjinHcw" name="Goalkeeper" generalizations="_TzWmsD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TcV04j6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_TzZqAT6YEeyGmpYCjinHcw" position="-1459.0,-1231.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TzZqAj6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_TzZqAz6YEeyGmpYCjinHcw" name="movementStep">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgk0oD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzZqBD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgk0oT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzZqBT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_TzZqBj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_TzZqBz6YEeyGmpYCjinHcw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_TzZqCD6YEeyGmpYCjinHcw" name="moveLeft">
+      <modelElement href="MiniSoccerGameProject.uml#_TcXDAD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzZqCT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcXqED6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzZqCj6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcXqET6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzZqCz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqDD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzZqDT6YEeyGmpYCjinHcw" name="moveRight">
+      <modelElement href="MiniSoccerGameProject.uml#_TcXqEz6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzZqDj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcYRID6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzZqDz6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcYRIT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzZqED6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqET6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzZqEj6YEeyGmpYCjinHcw" name="moveUp">
+      <modelElement href="MiniSoccerGameProject.uml#_TcYRIz6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzZqEz6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcYRJD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzZqFD6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcYRJT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzZqFT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqFj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzZqFz6YEeyGmpYCjinHcw" name="moveDown">
+      <modelElement href="MiniSoccerGameProject.uml#_TcY4MT6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzZqGD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcY4Mj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzZqGT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcZfQD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzZqGj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqGz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzZqHD6YEeyGmpYCjinHcw" name="shootBall">
+      <modelElement href="MiniSoccerGameProject.uml#_TcZfQj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzZqHT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcZfQz6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzZqHj6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcaGUD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzZqHz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqID6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzZqIT6YEeyGmpYCjinHcw" name="moveRandomly">
+      <modelElement href="MiniSoccerGameProject.uml#_TcaGUj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_TzZqIj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqIz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzZqJD6YEeyGmpYCjinHcw" name="setInitialPosition">
+      <modelElement href="MiniSoccerGameProject.uml#_TcaGUz6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzZqJT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcatYD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzZqJj6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcatYT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzZqJz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqKD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzZqKT6YEeyGmpYCjinHcw" name="toString">
+      <modelElement href="MiniSoccerGameProject.uml#_TcbUcD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzZqKj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tcb7gT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzZqKz6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_Tcb7gj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzZqLD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqLT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_TzZqLj6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tcb7gD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TzZqLz6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_TzZqMD6YEeyGmpYCjinHcw" name="Goalkeeper">
+      <modelElement href="MiniSoccerGameProject.uml#_TgSgwD6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_TzZqMT6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_TzZqMj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TzZqMz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_TzZqND6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgTH1D6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TzZqNT6YEeyGmpYCjinHcw" name="Goalkeeper">
+          <modelElement href="MiniSoccerGameProject.uml#_TcV04j6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_TzZqNj6YEeyGmpYCjinHcw" name="name">
+        <modelElement href="MiniSoccerGameProject.uml#_TgTH0D6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TzZqNz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_TzZqOD6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_TzZqOT6YEeyGmpYCjinHcw" name="color">
+        <modelElement href="MiniSoccerGameProject.uml#_TgTH0T6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TzZqOj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_TzZqOz6YEeyGmpYCjinHcw" name="Color">
+          <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tzg-wD6YEeyGmpYCjinHcw" name="SoccerGameTest">
+    <modelElement href="MiniSoccerGameProject.uml#_TdBxYD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_Tzg-wT6YEeyGmpYCjinHcw" position="1092.0,192.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tzg-wj6YEeyGmpYCjinHcw" label="+"/>
+    <operations xmi:id="_Tzg-wz6YEeyGmpYCjinHcw" name="getTimeRemainingTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TdBxYT6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tzg-xD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdCYcD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tzg-xT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdC_gD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tzg-xj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tzg-xz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Tzg-yD6YEeyGmpYCjinHcw" name="getGoalCountTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TdC_gj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tzg-yT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdC_gz6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tzg-yj6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdC_hD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tzg-yz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tzg-zD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Tzg-zT6YEeyGmpYCjinHcw" name="isPausedTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TdDmkD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tzg-zj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdDmkT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tzg-zz6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdENoD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tzg-0D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tzg-0T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Tzg-0j6YEeyGmpYCjinHcw" name="isOverTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TdENoj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tzg-0z6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdE0sD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tzg-1D6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdE0sT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tzg-1T6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tzg-1j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Tzg-1z6YEeyGmpYCjinHcw" name="automateGoalKeeperTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TdFbwD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tzg-2D6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdFbwT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tzg-2T6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdGC0D6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tzg-2j6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tzg-2z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Tzg-3D6YEeyGmpYCjinHcw" name="isScoredTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TdGC0j6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tzg-3T6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdGp4D6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tzg-3j6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdGp4T6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tzg-3z6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tzg-4D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_Tzg-4T6YEeyGmpYCjinHcw" name="getActivePlayerTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TdGp4z6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tzg-4j6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TdHQ8D6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tzg-4z6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TdHQ8T6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tzg-5D6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tzg-5T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TzmeUD6YEeyGmpYCjinHcw" name="PlayerStatisticsTest">
+    <modelElement href="MiniSoccerGameProject.uml#_Tcyg0D6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_TzmeUT6YEeyGmpYCjinHcw" position="290.0,616.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TzmeUj6YEeyGmpYCjinHcw" label="~"/>
+    <operations xmi:id="_TzmeUz6YEeyGmpYCjinHcw" name="testGetStatistic">
+      <modelElement href="MiniSoccerGameProject.uml#_TczH4D6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzmeVD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tczu8D6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzmeVT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_Tczu8T6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzmeVj6YEeyGmpYCjinHcw" label="~"/>
+      <cardinality xmi:id="_TzmeVz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TzmeWD6YEeyGmpYCjinHcw" name="testToString">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc0WAD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TzmeWT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc0WAT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_TzmeWj6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc09ED6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TzmeWz6YEeyGmpYCjinHcw" label="~"/>
+      <cardinality xmi:id="_TzmeXD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_TztzED6YEeyGmpYCjinHcw" name="PlayerCollection" associationsIn="_T0KfAD6YEeyGmpYCjinHcw" associationsOut="_Tzo6kD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TcdJoD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_TztzET6YEeyGmpYCjinHcw" position="-323.0,-1188.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_TztzEj6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_TztzEz6YEeyGmpYCjinHcw" name="size">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgk0oj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TztzFD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgk0oz6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TztzFT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_TztzFj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_TztzFz6YEeyGmpYCjinHcw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_TztzGD6YEeyGmpYCjinHcw" name="collection">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgk0pD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TztzGT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tglbsj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TztzGj6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_TztzGz6YEeyGmpYCjinHcw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_TztzHD6YEeyGmpYCjinHcw" name="GamePlayer">
+        <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_TztzHT6YEeyGmpYCjinHcw" comments="_TzqvwD6YEeyGmpYCjinHcw" targetConnectionVisual="_TzqvwT6YEeyGmpYCjinHcw" name="PlayerCollection">
+      <modelElement href="MiniSoccerGameProject.uml#_TceXwD6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_TztzHj6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_TztzHz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TztzID6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_TztzIT6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TceXwz6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TztzIj6YEeyGmpYCjinHcw" name="PlayerCollection">
+          <modelElement href="MiniSoccerGameProject.uml#_TcdJoD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_TztzIz6YEeyGmpYCjinHcw" comments="_Tzqvwj6YEeyGmpYCjinHcw" targetConnectionVisual="_Tzqvwz6YEeyGmpYCjinHcw" name="getGamePlayers">
+      <modelElement href="MiniSoccerGameProject.uml#_Tce-0D6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_TztzJD6YEeyGmpYCjinHcw" keyword="generic_container"/>
+      <visibility xmi:id="_TztzJT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TztzJj6YEeyGmpYCjinHcw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_TztzJz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tce-0T6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TztzKD6YEeyGmpYCjinHcw" name="GamePlayer">
+          <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_TztzKT6YEeyGmpYCjinHcw" comments="_TzrW0D6YEeyGmpYCjinHcw" targetConnectionVisual="_TzrW0T6YEeyGmpYCjinHcw" name="iterator">
+      <modelElement href="MiniSoccerGameProject.uml#_Tcfl4D6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_TztzKj6YEeyGmpYCjinHcw" name="Generics">
+        <modelElement href="MiniSoccerGameProject.uml#_TcgM8D6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_TztzKz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TztzLD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_TztzLT6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgU9AT6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TztzLj6YEeyGmpYCjinHcw" name="Iterator">
+          <modelElement href="MiniSoccerGameProject.uml#_Tf2b4T6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_TztzLz6YEeyGmpYCjinHcw" comments="_TzrW0j6YEeyGmpYCjinHcw" targetConnectionVisual="_TzrW0z6YEeyGmpYCjinHcw" name="get">
+      <modelElement href="MiniSoccerGameProject.uml#_TchbED6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_TztzMD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TztzMT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_TztzMj6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tf44ID6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_TztzMz6YEeyGmpYCjinHcw" name="GamePlayer">
+          <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_TztzND6YEeyGmpYCjinHcw" name="name">
+        <modelElement href="MiniSoccerGameProject.uml#_TchbET6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TztzNT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_TztzNj6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_TztzNz6YEeyGmpYCjinHcw" name="sort">
+      <modelElement href="MiniSoccerGameProject.uml#_TciCID6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_TztzOD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TztzOT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_TztzOj6YEeyGmpYCjinHcw" comments="_Tzr94D6YEeyGmpYCjinHcw" targetConnectionVisual="_Tzr94T6YEeyGmpYCjinHcw" name="add">
+      <modelElement href="MiniSoccerGameProject.uml#_Tf4RET6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_TztzOz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_TztzPD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_TztzPT6YEeyGmpYCjinHcw" name="player">
+        <modelElement href="MiniSoccerGameProject.uml#_Tf4REj6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_TztzPj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_TztzPz6YEeyGmpYCjinHcw" name="GamePlayer">
+          <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tz0gwD6YEeyGmpYCjinHcw" name="PlayerStatistics" associationsIn="_Ty5TsD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TcwEkD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_Tz0gwT6YEeyGmpYCjinHcw" position="-1219.0,-2117.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tz0gwj6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_Tz0gwz6YEeyGmpYCjinHcw" defaultValue="0" name="points">
+      <modelElement href="MiniSoccerGameProject.uml#_TgnQ4z6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tz0gxD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgnQ5T6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz0gxT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tz0gxj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz0gxz6YEeyGmpYCjinHcw" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Tz0gyD6YEeyGmpYCjinHcw" name="getStatistics">
+      <modelElement href="MiniSoccerGameProject.uml#_TcwroD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Tz0gyT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tz0gyj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Tz0gyz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TcwroT6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Tz0gzD6YEeyGmpYCjinHcw" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tz0gzT6YEeyGmpYCjinHcw" name="setStatistics">
+      <modelElement href="MiniSoccerGameProject.uml#_TcxSsD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Tz0gzj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tz0gzz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_Tz0g0D6YEeyGmpYCjinHcw" name="newStatistics">
+        <modelElement href="MiniSoccerGameProject.uml#_TcxSsT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Tz0g0T6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Tz0g0j6YEeyGmpYCjinHcw" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_Tz0g0z6YEeyGmpYCjinHcw" name="toString">
+      <modelElement href="MiniSoccerGameProject.uml#_TcxSsj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tz0g1D6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tcx5wD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_Tz0g1T6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_Tcx5wT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz0g1j6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tz0g1z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Tz0g2D6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TcxSsz6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Tz0g2T6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_Tz7OcD6YEeyGmpYCjinHcw" name="PlayerFactory" associationsOut="_Tz4yMD6YEeyGmpYCjinHcw _Tz4yMT6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TcrMED6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_Tz7OcT6YEeyGmpYCjinHcw" position="915.0,628.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_Tz7Ocj6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_Tz7Ocz6YEeyGmpYCjinHcw" defaultValue="Color.BLUE" name="strikerRed">
+      <modelElement href="MiniSoccerGameProject.uml#_TgmCxD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tz7OdD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgmp0T6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz7OdT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tz7Odj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz7Odz6YEeyGmpYCjinHcw" name="Color">
+        <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_Tz7OeD6YEeyGmpYCjinHcw" defaultValue="Color.MAGENTA" name="goalKeeperBlack">
+      <modelElement href="MiniSoccerGameProject.uml#_TgnQ4D6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_Tz7OeT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgnQ4j6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz7Oej6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_Tz7Oez6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_Tz7OfD6YEeyGmpYCjinHcw" name="Color">
+        <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_Tz7OfT6YEeyGmpYCjinHcw" name="PlayerFactory">
+      <modelElement href="MiniSoccerGameProject.uml#_TcrzID6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_Tz7Ofj6YEeyGmpYCjinHcw" keyword="create"/>
+      <stereotypes xmi:id="_Tz7Ofz6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcsaMj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_Tz7OgD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tz7OgT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Tz7Ogj6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TcsaMz6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Tz7Ogz6YEeyGmpYCjinHcw" name="PlayerFactory">
+          <modelElement href="MiniSoccerGameProject.uml#_TcrMED6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_Tz7OhD6YEeyGmpYCjinHcw" name="getPlayer">
+      <modelElement href="MiniSoccerGameProject.uml#_TctBQD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_Tz7OhT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_Tz7Ohj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_Tz7Ohz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tf7UYD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_Tz7OiD6YEeyGmpYCjinHcw" name="GamePlayer">
+          <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_Tz7OiT6YEeyGmpYCjinHcw" name="type">
+        <modelElement href="MiniSoccerGameProject.uml#_TctBQT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_Tz7Oij6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_Tz7Oiz6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_T0B8ID6YEeyGmpYCjinHcw" name="SoccerBall" associationsIn="_Tz-RwD6YEeyGmpYCjinHcw _Tz-40D6YEeyGmpYCjinHcw" associationsOut="_Tz-RwD6YEeyGmpYCjinHcw _Tz-40T6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tc09Ej6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_T0B8IT6YEeyGmpYCjinHcw" position="1129.0,-292.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_T0B8Ij6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_T0B8Iz6YEeyGmpYCjinHcw" defaultValue="new SoccerBall()" name="soccerBall" staticAttribute="true">
+      <modelElement href="MiniSoccerGameProject.uml#_TgnQ5j6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8JD6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0B8JT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0B8Jj6YEeyGmpYCjinHcw" name="SoccerBall">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc09Ej6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_T0B8Jz6YEeyGmpYCjinHcw" name="position">
+      <modelElement href="MiniSoccerGameProject.uml#_TgnQ6D6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8KD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8KT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0B8Kj6YEeyGmpYCjinHcw" name="Point">
+        <modelElement href="MiniSoccerGameProject.uml#_TfxjYT6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_T0B8Kz6YEeyGmpYCjinHcw" name="velocity">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgn38D6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0B8LD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgn38T6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0B8LT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0B8Lj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0B8Lz6YEeyGmpYCjinHcw" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_T0B8MD6YEeyGmpYCjinHcw" name="color">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgn38j6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0B8MT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgn38z6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0B8Mj6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0B8Mz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0B8ND6YEeyGmpYCjinHcw" name="Color">
+        <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_T0B8NT6YEeyGmpYCjinHcw" name="SoccerBall">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc2LMD6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_T0B8Nj6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_T0B8Nz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0B8OD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0B8OT6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc2LMz6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0B8Oj6YEeyGmpYCjinHcw" name="SoccerBall">
+          <modelElement href="MiniSoccerGameProject.uml#_Tc09Ej6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0B8Oz6YEeyGmpYCjinHcw" name="getSoccerBall" staticOperation="true">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc2yQD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8PD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8PT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0B8Pj6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tf-XsD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0B8Pz6YEeyGmpYCjinHcw" name="SoccerBall">
+          <modelElement href="MiniSoccerGameProject.uml#_Tc09Ej6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0B8QD6YEeyGmpYCjinHcw" name="moveBall">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc2yQT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8QT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8Qj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0B8Qz6YEeyGmpYCjinHcw" name="initialDistance">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc3ZUD6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0B8RD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0B8RT6YEeyGmpYCjinHcw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_T0B8Rj6YEeyGmpYCjinHcw" name="initialVelocity">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc3ZUT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0B8Rz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0B8SD6YEeyGmpYCjinHcw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_T0B8ST6YEeyGmpYCjinHcw" name="acceleration">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc3ZUj6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0B8Sj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0B8Sz6YEeyGmpYCjinHcw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0B8TD6YEeyGmpYCjinHcw" name="moveBallY">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc4AYD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8TT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8Tj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0B8Tz6YEeyGmpYCjinHcw" name="distance">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc4AYT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0B8UD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0B8UT6YEeyGmpYCjinHcw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0B8Uj6YEeyGmpYCjinHcw" name="resetSoccerBall">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc4AYj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8Uz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8VD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_T0B8VT6YEeyGmpYCjinHcw" name="onGoalkeeperSide">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc4AYz6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8Vj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8Vz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0B8WD6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc4AZD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0B8WT6YEeyGmpYCjinHcw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0B8Wj6YEeyGmpYCjinHcw" name="inGate">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc4AZT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8Wz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8XD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0B8XT6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc4AZj6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0B8Xj6YEeyGmpYCjinHcw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0B8Xz6YEeyGmpYCjinHcw" name="setVelocity">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc4ncD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8YD6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8YT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0B8Yj6YEeyGmpYCjinHcw" name="velocity">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc4ncT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0B8Yz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0B8ZD6YEeyGmpYCjinHcw" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0B8ZT6YEeyGmpYCjinHcw" name="getColor">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc4ncj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0B8Zj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0B8Zz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0B8aD6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgXZQD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0B8aT6YEeyGmpYCjinHcw" name="Color">
+          <modelElement href="MiniSoccerGameProject.uml#_Tfw8Uz6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_T0OJYj6YEeyGmpYCjinHcw" name="SoccerGame" associationsIn="_T0LGED6YEeyGmpYCjinHcw" associationsOut="_T0KfAD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_Tc8R0D6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_T0OJYz6YEeyGmpYCjinHcw" position="146.0,-940.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_T0OJZD6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_T0OJZT6YEeyGmpYCjinHcw" name="timeRemaining">
+      <modelElement href="MiniSoccerGameProject.uml#_TgofAD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0OJZj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0OJZz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0OJaD6YEeyGmpYCjinHcw" name="Integer">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_T0OJaT6YEeyGmpYCjinHcw" name="goal">
+      <modelElement href="MiniSoccerGameProject.uml#_TgofAT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0OJaj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0OJaz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0OJbD6YEeyGmpYCjinHcw" name="Integer">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_T0OJbT6YEeyGmpYCjinHcw" name="isPaused">
+      <modelElement href="MiniSoccerGameProject.uml#_TgofAj6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0OJbj6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgpGED6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0OJbz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0OJcD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0OJcT6YEeyGmpYCjinHcw" name="Boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_T0OJcj6YEeyGmpYCjinHcw" name="isOver">
+      <modelElement href="MiniSoccerGameProject.uml#_TgpGET6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0OJcz6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgpGEj6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0OJdD6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0OJdT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0OJdj6YEeyGmpYCjinHcw" name="Boolean">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_T0OJdz6YEeyGmpYCjinHcw" name="gamePlayers">
+      <modelElement href="MiniSoccerGameProject.uml#_TgpGEz6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0OJeD6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgpGFD6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0OJeT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0OJej6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0OJez6YEeyGmpYCjinHcw" name="PlayerCollection">
+        <modelElement href="MiniSoccerGameProject.uml#_TcdJoD6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_T0OJfD6YEeyGmpYCjinHcw" name="SoccerGame">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc9f8D6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_T0OJfT6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_T0OJfj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0OJfz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0OJgD6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc-HAj6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0OJgT6YEeyGmpYCjinHcw" name="SoccerGame">
+          <modelElement href="MiniSoccerGameProject.uml#_Tc8R0D6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0OJgj6YEeyGmpYCjinHcw" name="startGame">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc-HAz6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0OJgz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0OJhD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_T0OJhT6YEeyGmpYCjinHcw" name="isPaused">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc-HBD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0OJhj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0OJhz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0OJiD6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc-HBT6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0OJiT6YEeyGmpYCjinHcw" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0OJij6YEeyGmpYCjinHcw" name="setPaused">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc-HBj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0OJiz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0OJjD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0OJjT6YEeyGmpYCjinHcw" name="paused">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc-uED6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0OJjj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0OwcD6YEeyGmpYCjinHcw" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0OwcT6YEeyGmpYCjinHcw" name="isOver">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc-uET6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0Owcj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0Owcz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0OwdD6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc_VID6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0OwdT6YEeyGmpYCjinHcw" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0Owdj6YEeyGmpYCjinHcw" name="setOver">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc_VIT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0Owdz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0OweD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0OweT6YEeyGmpYCjinHcw" name="over">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc_VIj6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0Owej6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0Owez6YEeyGmpYCjinHcw" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0OwfD6YEeyGmpYCjinHcw" name="getGamePlayers">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc_8MD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0OwfT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0Owfj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0Owfz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tf_l0D6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0OwgD6YEeyGmpYCjinHcw" name="PlayerCollection">
+          <modelElement href="MiniSoccerGameProject.uml#_TcdJoD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0OwgT6YEeyGmpYCjinHcw" name="automateGoalkeeper">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc_8MT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0Owgj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0Owgz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_T0OwhD6YEeyGmpYCjinHcw" name="isScored">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc_8Mj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0OwhT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0Owhj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0Owhz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc_8Mz6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0OwiD6YEeyGmpYCjinHcw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0OwiT6YEeyGmpYCjinHcw" name="getActivePlayer">
+      <modelElement href="MiniSoccerGameProject.uml#_Tc_8ND6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0Owij6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0Owiz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0OwjD6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgAz8D6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0OwjT6YEeyGmpYCjinHcw" name="GamePlayer">
+          <modelElement href="MiniSoccerGameProject.uml#_TcHLYD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_T0WFMD6YEeyGmpYCjinHcw" name="GamePlayerTest">
+    <modelElement href="MiniSoccerGameProject.uml#_TcT_sD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_T0WFMT6YEeyGmpYCjinHcw" position="-51.0,631.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_T0WFMj6YEeyGmpYCjinHcw" label="+"/>
+    <operations xmi:id="_T0WFMz6YEeyGmpYCjinHcw" name="constructorTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TcUmwD6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0WFND6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcUmwT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_T0WFNT6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcVN0D6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0WFNj6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0WFNz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_T0WFOD6YEeyGmpYCjinHcw" name="updateStatisticsTest">
+      <modelElement href="MiniSoccerGameProject.uml#_TcVN0j6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0WFOT6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TcVN0z6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_T0WFOj6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_TcV04D6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0WFOz6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0WFPD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_T0cL0D6YEeyGmpYCjinHcw" name="GamePanel" associationsIn="_Tx2K0D6YEeyGmpYCjinHcw _TybZoD6YEeyGmpYCjinHcw" associationsOut="_T0LGED6YEeyGmpYCjinHcw _T0bkwD6YEeyGmpYCjinHcw">
+    <modelElement href="MiniSoccerGameProject.uml#_TdQa4D6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_T0cL0T6YEeyGmpYCjinHcw" position="550.0,-441.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_T0cL0j6YEeyGmpYCjinHcw" label="+"/>
+    <attributes xmi:id="_T0cL0z6YEeyGmpYCjinHcw" name="uiFont">
+      <modelElement href="MiniSoccerGameProject.uml#_TgptID6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0cL1D6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_TgptIT6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0cL1T6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cL1j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0cL1z6YEeyGmpYCjinHcw" name="Font">
+        <modelElement href="MiniSoccerGameProject.uml#_TgbqsD6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_T0cL2D6YEeyGmpYCjinHcw" name="game">
+      <modelElement href="MiniSoccerGameProject.uml#_TgptIj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cL2T6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0cL2j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <type xmi:id="_T0cL2z6YEeyGmpYCjinHcw" name="SoccerGame">
+        <modelElement href="MiniSoccerGameProject.uml#_Tc8R0D6YEeyGmpYCjinHcw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_T0cL3D6YEeyGmpYCjinHcw" name="GamePanel">
+      <modelElement href="MiniSoccerGameProject.uml#_TdRB8D6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_T0cL3T6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_T0cL3j6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0cL3z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0cL4D6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TdRpAD6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0cL4T6YEeyGmpYCjinHcw" name="GamePanel">
+          <modelElement href="MiniSoccerGameProject.uml#_TdQa4D6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_T0cL4j6YEeyGmpYCjinHcw" name="setupSoccerGame">
+      <modelElement href="MiniSoccerGameProject.uml#_TdRpAT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cL4z6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0cL5D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_T0cL5T6YEeyGmpYCjinHcw" name="setupRepaint">
+      <modelElement href="MiniSoccerGameProject.uml#_TdRpAj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cL5j6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cL5z6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_T0cL6D6YEeyGmpYCjinHcw" name="paintComponent">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgc40T6YEeyGmpYCjinHcw"/>
+      <stereotypes xmi:id="_T0cL6T6YEeyGmpYCjinHcw" name="LegacyStyledElement">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgdf4D6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_T0cL6j6YEeyGmpYCjinHcw" name="Annotations">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgdf4T6YEeyGmpYCjinHcw"/>
+      </stereotypes>
+      <visibility xmi:id="_T0cL6z6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0cL7D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cL7T6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgc40j6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cL7j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cL7z6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0cL8D6YEeyGmpYCjinHcw" name="paintPausedText">
+      <modelElement href="MiniSoccerGameProject.uml#_TgeG8D6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cL8T6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cL8j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cL8z6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_TgeG8T6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cL9D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cL9T6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0cL9j6YEeyGmpYCjinHcw" name="paintGate">
+      <modelElement href="MiniSoccerGameProject.uml#_TgeG8j6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cL9z6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cL-D6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cL-T6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_TgeG8z6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cL-j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cL-z6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0cL_D6YEeyGmpYCjinHcw" name="paintPenaltyLine">
+      <modelElement href="MiniSoccerGameProject.uml#_TgeuAD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cL_T6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cL_j6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cL_z6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_TgeuAT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cMAD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cMAT6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0cMAj6YEeyGmpYCjinHcw" name="paintTimer">
+      <modelElement href="MiniSoccerGameProject.uml#_TgeuAj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cMAz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cMBD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cMBT6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_TgeuAz6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cMBj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cMBz6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0cMCD6YEeyGmpYCjinHcw" name="paintGoal">
+      <modelElement href="MiniSoccerGameProject.uml#_TgeuBD6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cMCT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cMCj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cMCz6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_TgeuBT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cMDD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cMDT6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0cMDj6YEeyGmpYCjinHcw" name="paintPlayers">
+      <modelElement href="MiniSoccerGameProject.uml#_TgfVED6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cMDz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cMED6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cMET6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_TgfVET6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cMEj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cMEz6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0cMFD6YEeyGmpYCjinHcw" name="paintBall">
+      <modelElement href="MiniSoccerGameProject.uml#_TgfVEj6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cMFT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cMFj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cMFz6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_TgfVEz6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cMGD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cMGT6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0cMGj6YEeyGmpYCjinHcw" name="paintStatistics">
+      <modelElement href="MiniSoccerGameProject.uml#_Tgf8ID6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0cMGz6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0cMHD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_T0cMHT6YEeyGmpYCjinHcw" name="g">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgf8IT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0cMHj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0cMHz6YEeyGmpYCjinHcw" name="Graphics">
+          <modelElement href="MiniSoccerGameProject.uml#_TgcRwT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_T0kHoD6YEeyGmpYCjinHcw" name="GameMenuBar">
+    <modelElement href="MiniSoccerGameProject.uml#_TdN-oD6YEeyGmpYCjinHcw"/>
+    <visualProperties xmi:id="_T0kHoT6YEeyGmpYCjinHcw" position="-773.0,338.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_T0kHoj6YEeyGmpYCjinHcw" label="+"/>
+    <operations xmi:id="_T0kHoz6YEeyGmpYCjinHcw" name="GameMenuBar">
+      <modelElement href="MiniSoccerGameProject.uml#_TgZOcT6YEeyGmpYCjinHcw"/>
+      <keywords xmi:id="_T0kHpD6YEeyGmpYCjinHcw" keyword="create"/>
+      <visibility xmi:id="_T0kHpT6YEeyGmpYCjinHcw" label="+"/>
+      <cardinality xmi:id="_T0kHpj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0kHpz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_TgZOdT6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0kHqD6YEeyGmpYCjinHcw" name="GameMenuBar">
+          <modelElement href="MiniSoccerGameProject.uml#_TdN-oD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_T0kHqT6YEeyGmpYCjinHcw" name="menubarListener">
+        <modelElement href="MiniSoccerGameProject.uml#_TgZOcj6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0kHqj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0kHqz6YEeyGmpYCjinHcw" name="ActionListener">
+          <modelElement href="MiniSoccerGameProject.uml#_TfqOoT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_T0kHrD6YEeyGmpYCjinHcw" name="createMenuItem">
+      <modelElement href="MiniSoccerGameProject.uml#_TgackT6YEeyGmpYCjinHcw"/>
+      <visibility xmi:id="_T0kHrT6YEeyGmpYCjinHcw" label="-"/>
+      <cardinality xmi:id="_T0kHrj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_T0kHrz6YEeyGmpYCjinHcw">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgaclj6YEeyGmpYCjinHcw"/>
+        <type xmi:id="_T0kHsD6YEeyGmpYCjinHcw" name="JMenuItem">
+          <modelElement href="MiniSoccerGameProject.uml#_TgZ1gD6YEeyGmpYCjinHcw"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_T0kHsT6YEeyGmpYCjinHcw" name="text">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgackj6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0kHsj6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0kHsz6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_T0kHtD6YEeyGmpYCjinHcw" name="actionCommand">
+        <modelElement href="MiniSoccerGameProject.uml#_Tgackz6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0kHtT6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0kHtj6YEeyGmpYCjinHcw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_T0kHtz6YEeyGmpYCjinHcw" name="accelerator">
+        <modelElement href="MiniSoccerGameProject.uml#_TgaclD6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0kHuD6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0kHuT6YEeyGmpYCjinHcw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_T0kHuj6YEeyGmpYCjinHcw" name="listener">
+        <modelElement href="MiniSoccerGameProject.uml#_TgaclT6YEeyGmpYCjinHcw"/>
+        <cardinality xmi:id="_T0kHuz6YEeyGmpYCjinHcw" label="1" max="1" min="1"/>
+        <type xmi:id="_T0kHvD6YEeyGmpYCjinHcw" name="ActionListener">
+          <modelElement href="MiniSoccerGameProject.uml#_TfqOoT6YEeyGmpYCjinHcw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
